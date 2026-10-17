@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "letx": {
+      "type": "http",
+      "url": "https://api.letx.app/mcp"
+    }
+  }
+}
