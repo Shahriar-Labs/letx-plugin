@@ -9,6 +9,7 @@
     "url": "https://letx.app"
   },
   "homepage": "https://letx.app/mcp/",
+  "icon": "./assets/icon.png",
   "documentationUrl": "https://letx.app/mcp/",
   "supportUrl": "https://letx.app/help/",
   "privacyPolicyUrl": "https://letx.app/privacy/#connected-ai-apps",
