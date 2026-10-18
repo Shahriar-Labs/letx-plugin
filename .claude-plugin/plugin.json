@@ -1,7 +1,7 @@
 {
   "name": "letx",
   "displayName": "letX",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Write, compile and fix LaTeX in your letX account: start projects from letX's template library, read and edit project files, and compile to PDF with the LaTeX errors to fix.",
   "author": {
     "name": "letX",
