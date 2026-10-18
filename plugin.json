@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "letx",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Write, compile and fix LaTeX in your letX account: start projects from letX's template library, read and edit project files, and compile to PDF with the LaTeX errors to fix.",
   "author": {
     "name": "letX",
@@ -99,10 +99,11 @@
           ]
         },
         "commerce": false,
-        "commerce_description": "letX sells nothing through this plugin."
+        "commerce_description": "letX sells nothing through this plugin.",
+        "demo_recording_url": "https://youtu.be/rD3-Nfg2Bsg"
       },
       "publication": {
-        "release_notes": "First release: search letX's LaTeX templates, start projects, read and edit project files, and compile to PDF with the LaTeX errors to fix. Signs in with letX's registered ChatGPT client.",
+        "release_notes": "First release: search letX's LaTeX templates, start projects, read and edit project files, and compile to PDF with the LaTeX errors to fix.",
         "translations": {
           "fr-FR": {
             "subtitle": "Rédiger et compiler du LaTeX",
