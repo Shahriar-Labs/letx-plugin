@@ -9,6 +9,10 @@
     "url": "https://letx.app"
   },
   "homepage": "https://letx.app/mcp/",
+  "documentationUrl": "https://letx.app/mcp/",
+  "supportUrl": "https://letx.app/help/",
+  "privacyPolicyUrl": "https://letx.app/privacy/#connected-ai-apps",
+  "termsOfServiceUrl": "https://letx.app/terms/",
   "repository": "https://github.com/Shahriar-Labs/letx-plugin",
   "license": "MIT",
   "keywords": [
