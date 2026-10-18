@@ -9,7 +9,9 @@
           "auth": {
             "type": "oauth",
             "client": {
-              "mode": "cimd"
+              "mode": "provided",
+              "clientId": "chatgpt",
+              "tokenEndpointAuthMethod": "none"
             }
           }
         }
